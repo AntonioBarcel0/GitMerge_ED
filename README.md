@@ -27,3 +27,8 @@ Proteger a los pingüinos también preserva los océanos y otras especies. Cuida
 Presentación 
 
 La reducción de la cantidad de predadores y de especies invasoras introducidas, así como la aplicación de medidas de manejo apropiadas para reducir el impacto del turismo, pueden contribuir a la supervivencia de las colonias de pingüinos.
+
+Instalación
+
+Los pingüinos tienen un papel clave en la cadena alimenticia, tanto como predadores y como presas; si estos desaparecieran habría un desequilibrio en las cadenas de otras especies marinas que también podrían desaparecer.
+
