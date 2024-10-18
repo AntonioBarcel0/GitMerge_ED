@@ -1,6 +1,3 @@
-# Trebuchet Medieval
-## Como lanzar un piano por los aires 
-
 # Salvemos a los pingüinos
 ## Los pingüinos no aguantan lo suficiente en el agua 
 ![penguins-9028827_1280](https://github.com/user-attachments/assets/6f8d6bce-8860-47f7-a16d-9e5d8a8dd1c8)
