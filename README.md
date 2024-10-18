@@ -10,6 +10,7 @@
 3. instalacion
 4. instrucciones operacionales
 5. agradecimientos
+![Penguins-web](https://github.com/user-attachments/assets/40f36e9b-ea76-4510-a93e-16d8fe8c4433)
 
 
 ### El Proyecto
