@@ -31,4 +31,8 @@ La reducción de la cantidad de predadores y de especies invasoras introducidas,
 Instalación
 
 Los pingüinos tienen un papel clave en la cadena alimenticia, tanto como predadores y como presas; si estos desaparecieran habría un desequilibrio en las cadenas de otras especies marinas que también podrían desaparecer.
+![Penguins-web](https://github.com/user-attachments/assets/40f36e9b-ea76-4510-a93e-16d8fe8c4433)
 
+Agradecimientos
+
+Gracias por proteger y cuidar el medioambiente para poder seguir disfrutando de los pinguinos 
