@@ -23,3 +23,7 @@ Proteger a los pingüinos también preserva los océanos y otras especies. Cuida
 - Paso 3: Disminuir la huella de carbono.
 - Paso 4: Evitar la pesca excesiva.
 - Paso 5: Difundir la importancia de proteger su hábitat.
+
+Presentación 
+
+La reducción de la cantidad de predadores y de especies invasoras introducidas, así como la aplicación de medidas de manejo apropiadas para reducir el impacto del turismo, pueden contribuir a la supervivencia de las colonias de pingüinos.
