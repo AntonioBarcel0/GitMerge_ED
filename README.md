@@ -12,6 +12,7 @@
 5. agradecimientos
 
 
+
 ### El Proyecto
 Salvar a los pingüinos es esencial para mantener el equilibrio de los ecosistemas polares. El cambio climático y la contaminación amenazan su supervivencia.
 
